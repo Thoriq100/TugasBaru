@@ -1,0 +1,7 @@
+C:\Users\Toriq\Documents\Visual Studio 2010\Projects\From_HRD\From_HRD\bin\Debug\From_HRD.exe
+C:\Users\Toriq\Documents\Visual Studio 2010\Projects\From_HRD\From_HRD\bin\Debug\From_HRD.pdb
+C:\Users\Toriq\Documents\Visual Studio 2010\Projects\From_HRD\From_HRD\obj\x86\Debug\From_HRD.Form1.resources
+C:\Users\Toriq\Documents\Visual Studio 2010\Projects\From_HRD\From_HRD\obj\x86\Debug\From_HRD.Properties.Resources.resources
+C:\Users\Toriq\Documents\Visual Studio 2010\Projects\From_HRD\From_HRD\obj\x86\Debug\From_HRD.csproj.GenerateResource.Cache
+C:\Users\Toriq\Documents\Visual Studio 2010\Projects\From_HRD\From_HRD\obj\x86\Debug\From_HRD.exe
+C:\Users\Toriq\Documents\Visual Studio 2010\Projects\From_HRD\From_HRD\obj\x86\Debug\From_HRD.pdb
